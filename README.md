@@ -9,12 +9,14 @@ Estudo no IFPB e crio quizzes, simulados e guias didáticos com HTML, CSS e Java
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🚀 Projetos em destaque
-- [Simulado de Sociologia](https://simuladosociologiaifpb.netlify.app/)
-- [Quiz de História](http://quizhistoriaifpb.netlify.app/)
-- [Traveler IQ Challenge](https://travelerchallenge.netlify.app/)
-- [Portfolio](https://portifolioasafe.netlify.app/)
+## 🚀 Projetos
+- [Portfolio](https://github.com/asafe-silvacode/Portifolio-Asafe-Silva)
+- [Simulado de Sociologia](https://github.com/asafe-silvacode/simulado-sociologia)
+- [Traveler IQ Challenge](https://github.com/asafe-silvacode/Traveller-Iq)
+- [Quiz História](https://github.com/asafe-silvacode/quiz-historia)
+- [Quiz Matemática](https://github.com/asafe-silvacode/quiz-matematica)
+- [Quiz Sociologia](https://github.com/asafe-silvacode/quiz-sociologia)
 
 ## 📬 Contato
 - WhatsApp: +55 (83) 99830-7602
-- Email: work.asafe@gmail.com
+- Email: silva.asafe@academico.ifpb.edu.br
